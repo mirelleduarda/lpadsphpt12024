@@ -22,7 +22,7 @@
 </head>
 <body>
     <h1>Listar Departamento</h1>
-    <table class="highlight">
+    <table class="striped">
         <tr>
             <th>ID</th>
             <th>Descrição</th>
