@@ -32,7 +32,7 @@
 </head>
 <body>
     <h1>Listar Departamento</h1>
-    <table class="striped centered">
+    <table class="striped">
         <tr>
             <th>ID</th>
             <th>Descrição</th>
